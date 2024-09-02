@@ -1,8 +1,4 @@
-git init+git master sddition
-
-<br>
-
-<br>
+git init
 
 git change
 
