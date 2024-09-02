@@ -16,7 +16,7 @@ dev2++++++++++++++++++++++++++
 
 > > > > > > > feature1
 
-dev3 start dfdfas change change
+dev3 start dfdfas change change finished
 
 feature3.1 start deepen finish
 
